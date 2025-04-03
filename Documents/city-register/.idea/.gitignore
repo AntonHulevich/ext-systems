@@ -1,3 +1,51 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+*.iml
+        ../../.Icecream Photo Editor/
+        ../../.android/
+        ../../.eclipse/
+        ../../.gitconfig
+        ../../.gradle/
+        ../../.jdks/
+        ../../.lesshst
+        ../../.m2/
+        ../../.p2/
+        ../../.sts4/
+        ../../AppData/
+        ../../Contacts/
+        ../../Desktop/
+        ../Diablo III/
+        ../My Games/
+        ../StarCraft II/
+        ../demoProject2025/
+        ../desktop.ini
+        ../edu.javacourse/
+        ../javarush/
+        ../postgresql-42.7.5.jar
+        ../register-office/
+        ../skillBox/
+        ../student-projects/
+        "../\320\227\320\260\320\277\320\270\321\201\320\275\321\213\320\265 \320\272\320\275\320\270\320\266\320\272\320\270 OneNote/"
+        ../../Downloads/
+        ../../Favorites/
+        ../../IdeaProjects/
+        ../../Links/
+        ../../Music/
+        ../../NTUSER.DAT
+        ../../NTUSER.DAT{60454b81-cb05-11ee-a1a5-939105599bf3}.TM.blf
+        ../../NTUSER.DAT{60454b81-cb05-11ee-a1a5-939105599bf3}.TMContainer00000000000000000001.regtrans-ms
+        ../../NTUSER.DAT{60454b81-cb05-11ee-a1a5-939105599bf3}.TMContainer00000000000000000002.regtrans-ms
+        ../../OneDrive/
+        ../../PCManger/
+        ../../Pictures/
+        ../../Saved Games/
+        ../../Searches/
+        ../../Videos/
+        ../../eclipse-workspace/
+        ../../eclipse/
+        ../../hr.sql
+        ../../javac
+        ../../ntuser.dat.LOG1
+        ../../ntuser.dat.LOG2
+        ../../ntuser.ini
